@@ -1,5 +1,5 @@
-# task_1
-1-emotion recognition 
+
+3-emotion recognition 
 data preprocessing 
 import os
 import librosa
